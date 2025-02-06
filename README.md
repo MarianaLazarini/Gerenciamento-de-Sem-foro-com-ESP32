@@ -1,0 +1,1 @@
+# Gerenciamento-de-Sem-foro-com-ESP32
